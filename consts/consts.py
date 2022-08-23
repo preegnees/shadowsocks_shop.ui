@@ -1,0 +1,8 @@
+HISTORY = "История платежей"
+STATUS = "Текущий статус"
+INFO = "Информацию о боте"
+INSTRUCTION = "Истурукцию к впн"
+START = "start"
+HELP = "help"
+CANCEL = "Отмена"
+PAY = "Оплатил"
